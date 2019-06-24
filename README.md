@@ -4,7 +4,7 @@ State: Done
 This is my bachelor's degree project.
 
 I create a smart home system using a hub and a slave.
-The hub keep UIs to monitoring sensors and control actuators.
+The hub keeps UIs to monitoring sensors and control actuators.
 The slave handle the embedded part (it hosts the sensors and actuators) and keep the comunication alive with the hub.
 
 HW:
